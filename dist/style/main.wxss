@@ -9,10 +9,10 @@
     text-align:justify;
 }
 
-.h2w__main {
+/* .h2w__main {
     margin: 0 40rpx 40rpx 40rpx;
     padding-top: 40rpx;
-}
+} */
 
 /**标题**/
 .h2w__h1,
@@ -36,6 +36,7 @@
 .h2w__g-emoji,
 .h2w__mark,
 .h2w__u,
+.h2w__navigatorParent,
 .h2w__ins {
     display:inline;
 }
@@ -266,9 +267,9 @@
 }
 
 /**块元素**/
-.h2w__p {
+/* .h2w__p {
     margin: 20rpx 0 20rpx 0;
-}
+} */
 
 .h2w__blockquote {
     border-left-width: 8rpx;
@@ -279,6 +280,7 @@
 /**内连元素**/
 .h2w__a,
 .h2w__span,
+.h2w__s,
 .h2w__b,
 .h2w__strong,
 .h2w__i,

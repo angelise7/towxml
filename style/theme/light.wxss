@@ -1,6 +1,6 @@
 /*正文样式*/
 .h2w-light {
-  color:#333;
+  color:#000;
   background-color:white;
 }
 

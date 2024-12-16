@@ -9,10 +9,10 @@
     text-align:justify;
 }
 
-.h2w__main {
+/* .h2w__main {
     margin: 0 40rpx 40rpx 40rpx;
     padding-top: 40rpx;
-}
+} */
 
 /**标题**/
 .h2w__h1,
@@ -267,9 +267,9 @@
 }
 
 /**块元素**/
-.h2w__p {
+/* .h2w__p {
     margin: 20rpx 0 20rpx 0;
-}
+} */
 
 .h2w__blockquote {
     border-left-width: 8rpx;
