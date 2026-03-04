@@ -1,7 +1,7 @@
 /*正文样式*/
 .h2w-red {
   color: #ffffff;
-  background-color: #366bfd;
+  background-color: #fc710c;
 }
 
 /**标题**/
